@@ -28,7 +28,7 @@ Pod::Spec.new do |spec|
                   easy to use
                    DESC
 
-  spec.homepage     = "http://ddd/QCDD"
+  spec.homepage     = "https://github.com/DockLle/QCDD"
   # spec.screenshots  = "www.example.com/screenshots_1.gif", "www.example.com/screenshots_2.gif"
 
 
