@@ -1,0 +1,6 @@
+framework module QCAccount {
+  umbrella header "QCAccount.h"
+
+  export *
+  module * { export * }
+}
